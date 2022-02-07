@@ -78,34 +78,11 @@
 }
 -->
 </style>
-</head>
 
-<body>
-<table width="100%" height="100%">
-  <tr>
-    <td width="207" height="284"><img src="https://4.bp.blogspot.com/-OoRNZMkTpMI/XgAHBLT10CI/AAAAAAAWdGg/uVdoHYqM6JIPrMt9ir__Pk_qmIujyqrbQCLcBGAsYHQ/s1600/AW4119690_07.gif" width="210" height="199" /></td>
-    <td width="532" colspan="3"><h1 align="left" class="style4"><font color="green" face="comic sans ms">KINI, KITA DAPAT MENGGUNAKAN APLIKASI</font></h1>
-        <h1 align="left" class="style4"><font color="green" face="comic sans ms">UNTUK MEMUDAHKAN MENDAPATKAN INFORMASI</font></h1>
-      <h1 align="left" class="style3"><strong><font color="green" face="comic sans ms">MENGGUNAKAN HANDPHONE ANDROID </font></strong></h1>
-    <p align="left" class="style10"><font face="comic sans ms">KLIK ICON APLIKASI UNTUK DOWNLOAD APLIKASI</font></p></td>
-  </tr>
-</table>
-<table width="100%" height="100%" border="1">
-  <tr>
-    <td width="233" height="188"><a href="https://u.pcloud.link/publink/show?code=XZV7JGXZKpf41pg31lu2P8xJO0iv6pmvQ7yV" target="_blank"><img src="https://rsukaryabakti.com/storage/dokter/QDMWZ6yOVihw2OgnVajoC9R3GCZTFRasyaGQkJJo.png" width="180" height="194" border="0" /></a></td>
-    <td width="357"><h1 class="style5"><font color="green" face="comic sans ms">APLIKASI DOKTER </font></h1></td>
-    <td width="213"><a href="https://u.pcloud.link/publink/show?code=XZR7JGXZlrkYhHFwqGRziaL6dKkqqXuD8sVX" target="_blank"><img src="http://stikesimcbintaro.ac.id/wp-content/uploads/2021/04/icon-perawat.jpg" width="194" height="196" border="0" /></a></td>
-    <td width="216"><h1 class="style5"><font color="green" face="comic sans ms">APLIKASI PARAMEDIS </font></h1></td>
-  </tr>
-  <tr>
-    <td height="181"><a href="https://u.pcloud.link/publink/show?code=XZ87JGXZVpnFiczn7fuXsm12WXYf00Uq8nAy" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/504/504079.png" width="179" height="191" border="0" /></a></td>
-    <td><h1 class="style5"><font color="green" face="comic sans ms">APLIKASI EPASIEN </font></h1></td>
-    <td><a href="https://u.pcloud.link/publink/show?code=XZY7JGXZAtD0WsqOI64l6JL2yS5xeLziFTCV" target="_blank"><img src="https://images.all-free-download.com/images/graphiclarge/msn_messenger_96834.jpg" width="197" height="196" border="0" /></a></td>
-    <td><h1 class="style5"><font color="green" face="comic sans ms">APLIKASI PASIEN </font></h1></td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-</body>
+
+
+
+
 
 
 
@@ -193,18 +170,18 @@
                         <p class="donec_text">Aplikasi Ini Dikembangkan Oleh IT Managemen Desain Hamba Alloh</p>
 						
 						
-                         <a class="get_bg" href="https://api.whatsapp.com/send?phone=6281271138811" target="_blank">Klinik</a>
-                             <a class="get_bg" href="https://api.whatsapp.com/send?phone=6282371609700"target="_blank">Gigi</a>
-                             <a class="get_bg" href="https://api.whatsapp.com/send?phone=6281283827150"target="_blank"> Telkom</a>
-                             <a class="get_bg" href="https://api.whatsapp.com/send?phone=6282306200500" target="_blank">PLN</a> 
+                         
+                             
+                             
+                            
 							 <p></p> 
 							   
 							
 							 <p></p>  
-							 <div align="left"><a class="get_bg" href="http://192.168.88.203/SIMRS-Khanza-master/" target="">Online</a>
-							     <a class="get_bg" href="http://192.168.88.203/dashboard/tv.php"target="">TV</a>
-							     <a class="get_bg" href="https://aplikasiinformasiklinik.blogspot.com/"target=""> Aplikasi</a>
-							     <a class="get_bg" href="http://192.168.88.203/dashboard/KHANZALITE-PAKESUARA/anjungan/poli" target="">Poli</a>                       
+							 <div align="left">
+							     
+							     
+							          
 							   
 							   
 				    </div>
@@ -217,18 +194,13 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
                   </div>
 					
                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-				 <button type="button" target="_blank" class="get_bg">
-				 <span class="style2"><a href="https://klinikutama-draisyah.blogspot.com/" target="_blank">  Website</a>
-				 </button>
-			    		         </button>
-		         <button type="button" class="get_bg">
-				   <a href="http://192.168.88.1/webfig/#Wireless.Interfaces.5" target="_blank">Login Hotspot</a>
-		         </button>
-				                  </span>
+				 
+			    		         
+				                  
 				 <div class="img-box">
 			
 				   
-				 <iframe width="580" height="580" src="http://192.168.88.203/dashboard/KHANZALITE-PAKESUARA/anjungan/poli" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				 
 
 
                     
@@ -329,56 +301,13 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
 
 
 
-<?php
-    if(strpos($_SERVER['REQUEST_URI'],"pages")){
-        exit(header("Location:../index.php"));
-    }
-?>
-<div class="block-header">
-   
-</div>
-<div class="row clearfix">
-    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <div class="card">
-            <div class="body">
-                <div class="table-responsive">
-                    <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
-                        <thead>
-                            <tr>
-                              <th width="30%"><center>Nama Dokter</center></th>
-                                <th width="15%"><center>Hari Kerja</center></th>
-                                <th width="25%"><center>Poliklinik</center></th>
-                                <th width="15%"><center>Jam Mulai</center></th>
-                                <th width="15%"><center>Jam Selesai</center></th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                        <?php 
-                            $queryjadwal = bukaquery("select dokter.nm_dokter,jadwal.hari_kerja,jadwal.jam_mulai,jadwal.jam_selesai,poliklinik.nm_poli from jadwal inner join poliklinik inner join dokter on jadwal.kd_dokter=dokter.kd_dokter and jadwal.kd_poli=poliklinik.kd_poli where dokter.status='1' order by jadwal.hari_kerja,jadwal.kd_dokter");
-                            while($rsqueryjadwal = mysqli_fetch_array($queryjadwal)) {
-                                echo "<tr>
-                                        <td align='left'>".$rsqueryjadwal["nm_dokter"]."</td>
-                                        <td align='center'>".$rsqueryjadwal["hari_kerja"]."</td>
-                                        <td align='center'>".$rsqueryjadwal["nm_poli"]."</td>
-                                        <td align='center'>".$rsqueryjadwal["jam_mulai"]."</td>
-                                        <td align='center'>".$rsqueryjadwal["jam_selesai"]."</td>
-                                      </tr>";
-                            }
-                        ?>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
 
 
 
-<iframe width="100%" height="560" src="http://192.168.88.203/dashboard/sim/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="580" src="http://192.168.88.203/dashboard/sim/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -419,87 +348,7 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
 
 
 
-<!-- service start -->
-    <div id="service" class="choose_section">
-    	<div class="container">
-    		<div class="col-sm-12">
-    			<h1 class="choose_text">CEK<span class="color"> BIAYA DAN KETERSEDIAAN</span></h1>
-    			<p class="lorem_text">UPDATE</p>
-    		</div>
-    	</div>
-    </div>
-    <div class="choose_section_2">
-    	<div class="container">
-    	    <div class="row">
-    		    <div class="col-sm-4">
-    			   <div class="dedicated">
-    				    <div class="icon"><a href="cekdarah.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEge3WvSGLeZaaclCZpxRDxR5cqF9dASnfXPtHzNtXnnc4empgyqxVhzz-l5mJmx_kvs4bidnsy3OJ65_XrX0Ov6EzabUk1YdKKZDslxgJdortA5vYeqQdMkRf2OA9FQhO5oD7mzubqobHOOtltUhFkCJ0Yw1gVhrdVbnFLlJqGS2gQf2DLNyf_6amwJPA=w137-h200"></a></div>
-    				    <h2 class="hosting_text">CEK STOK DARAH
-</h2>
-    				
-   			      </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			    <div class="dedicated">
-    				    <div class="icon"><a href="cekoperasi.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjInwnjOJP6O7JTbGHYn0jaTD62MrsOv7Rv-DVfwm6Ovt0V-S52joi1pYNXN5EatayP9nyZYnKMme8_wDwVf3Kst19ljbVYbZrNDAI1TjqErYhZFNmIF1H8WIeDb1lAQdQfo9bzqS08srhnOKYwwfPulE1CTqKH-Kr3jIW4Zsc7_DI5Llf9Pkq12nWeNQ=w200-h200" border="0"></a></div>
-    				    <h2 class="hosting_text">CEK BIAYA OPERASI
-</h2>
-    			
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			     <div class="dedicated">
-    				    <div class="icon">
-    				      <div align="center"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEivb4lMYMHRwRRgnQEmpfcdI7muq8MBUS5O45RS-Sns-tPtiBYRGF6C7TE9zFeSGGJsY78ZzU9EVdAj0E5yl0rOIwWcERxdqU3olN0PMFdc0fGmOxNnj2H5kNPh1yNqQUfK4q4SprbmW_EMYl2Oyu6fO5ZIVkfhCoLb6p99NYgAClKqyWaBBkKzNi0zrg=w320-h298" border="0"></a><a href="ceklab.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEivb4lMYMHRwRRgnQEmpfcdI7muq8MBUS5O45RS-Sns-tPtiBYRGF6C7TE9zFeSGGJsY78ZzU9EVdAj0E5yl0rOIwWcERxdqU3olN0PMFdc0fGmOxNnj2H5kNPh1yNqQUfK4q4SprbmW_EMYl2Oyu6fO5ZIVkfhCoLb6p99NYgAClKqyWaBBkKzNi0zrg=w320-h298" border="0"></a></div>
-    				    </div>
-    				    <h2 class="hosting_text">CEK BIAYA LAB
-</h2>
-    				
-    			    </div>
-    		    </div>
-    	    </div>    		
-    	</div>
-    </div>
 
-    <div class="choose_section_2">
-    	<div class="container">
-    	    <div class="row">
-    		    <div class="col-sm-4">
-    			     <div class="dedicated">
-    				    <div class="icon"><a href="cekradiologi.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjB5cJXjCw-roa1AsBKMwYK-YJpyLoVgQT5jBjFTiiK3L8sWSMG7yWxtCFTiUd4CxjjvRl1JpZzZRktVYG0br-90M3-cXr32DQAhKuRxaDfDTVPJHAb_UqHRtnmXZ31BiNozW6o3CXq2qB4egbmWbDFqvtPTfAIgenzAp0_eNLRKavNGx0CWGwYpMy4EQ=w185-h200" border="0"></a></div>
-    				    <h2 class="hosting_text">CEK BIAYA RADIOLOGI
-</h2>
-    				 
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			     <div class="dedicated">
-    				    <div class="icon"><a href="cekranap.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjxHUpmLunLqOgr2q91Zurra6lXQf0oSh6n-jKYCwzjFRfxtePzMUpP5g9pITSac5U6oHWIKpFUrDlxyHf9Ijob9eHamZZnX3eUdXS4be2fYqCGoUhxNAeK5JqryOOCKxABUEfwWWDbTnPLXUXw7S4EtY4ymCL6Q2ALUuW0kVGE2ABnMCUnUsfe_4iqrQ=w311-h320" border="0"></a></div>
-    				    <h2 class="hosting_text">CEK BIAYA PASIEN RANAP
-
-</h2>
-    				  
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			      <div class="dedicated">
-    				    <div class="icon"><a href="cekjadwaloperasi.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEg0WJBY9El7L5_uxVB_8ua1bYXbGB_ceeLMff6AhYTzyXRDYrtubP3RRj_LYISvIPwAFYslQMtFGpA2u55UigErPEAQggrx5dWS7Aw_1WHieME9E-ZODiZpJHU06rSb64keuHodAP6KgoPOX42zPFsRl4XO5RnFLP-OU6-yl8W4SvzB_-Vroul2vu9DrQ=w200-h200" border="0"></a></div>
-    				    <h2 class="hosting_text">CEK JADWAL OPERASI</h2>
-    				
-    			    </div>
-    		    </div>
-    	    </div>
-    	    <div class="bt_main">
-    	    	
-            </div>   		
-    	</div>
-    </div>
-
-    <!-- service end -->
-    
-	
-	
-	
 	
 	
 	

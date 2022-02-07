@@ -108,6 +108,42 @@ https://templatemo.com/tm-569-edu-meeting
                
               </div>
             </div>
+			
+			
+			
+			
+			
+			<div class="item">
+              <div class="icon">
+                <div class="icon"><a href="http://192.168.88.203/dashboard/DOWNLOAD-APLIKASI" target=""><img src="https://cdn4.iconfinder.com/data/icons/smart-phones-technologies/512/android-phone-color.png"></a></div>
+              </div>
+              <div class="down-content">
+                <h4>DOWNLOAD APLIKASI</h4>
+               
+              </div>
+            </div>
+			
+			
+			
+			
+			
+			
+				
+			<div class="item">
+              <div class="icon">
+                <div class="icon"><a href="http://192.168.88.203/dashboard/KONTAK-WEBSITE" target=""><img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png"></a></div>
+              </div>
+              <div class="down-content">
+                <h4>KONTAK</h4>
+               
+              </div>
+            </div>
+			
+			
+			
+			
+			
+			
             
             <div class="item">
               <div class="icon">
