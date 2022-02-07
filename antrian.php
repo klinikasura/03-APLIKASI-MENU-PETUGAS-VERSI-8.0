@@ -23,18 +23,22 @@
 ?>
 
 <link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
-<p></p>
-<center><button id="goFS">KLIK LAYAR PENUH</button></center>
-<p></p>
-
-
+<center><button type="button" class="get_bg" id="goFS">KLIK LAYAR PENUH</button>
+<button type="button" class="get_bg">
+ <a href="http://192.168.88.203/dashboard/indexmenu.php" >BERANDA</a>
+</button></center>
 
 
 <script>
+
   var goFS = document.getElementById("goFS");
+
   goFS.addEventListener("click", function() {
+
       document.body.requestFullscreen();
+
   }, false);
+
 </script>
 
 
@@ -93,12 +97,10 @@
                         <div class="center-desk">
                           <div class="logo">
                              <div align="left"><a href="http://192.168.88.203/dashboard/indexmenu.php"><img src="http://192.168.88.203/dashboard/download.jpeg" width="86" height="76" style="max-width: 100%;"></a>                           
-                               <button type="button" target="_blank" class="get_bg">
+                              
                                
-                               <span class="style2"><a href="http://192.168.88.203/dashboard" target="_self">  Beranda</a></div> </div> 
-                           </button							   
-
-                          ></div>
+                               <span class="style2"><a href="http://192.168.88.203/dashboard" target="_self">  </a></div> </div> 
+                           </button></div>
                         </div>
                      </div>
                   </div>
