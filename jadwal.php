@@ -35,7 +35,7 @@
  <center><div class="logo">
   <div align="center">
     <p><a href="http://192.168.88.203/dashboard/indexmenu.php"><img src="http://192.168.88.203/dashboard/download.jpeg" width="86" height="76" style="max-width: 100%;"></a></p>
-    <h1>RS. ASURA TUGUMULYO </h1>
+    <h1>RS. ASURA</h1>
     <p>&nbsp;</p>
   </div>
 </div><center>

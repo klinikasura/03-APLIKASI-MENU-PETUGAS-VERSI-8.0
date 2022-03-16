@@ -9,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
-    <title>Aplikasi RS. Asura Tugumulyo</title>
+    <title>Aplikasi RS. Asura</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -40,7 +40,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="index.html" class="logo">
-                         Aplikasi RS. Asura Tugumulyo                      </a>
+                         Aplikasi RS. Asura                    </a>
                       <!-- ***** Logo End ***** -->
                       
                 </nav>
@@ -55,7 +55,7 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
       <video autoplay muted loop id="bg-video">
-          <source src="assetsweb/images/TEMA.mp4" type="video/mp4" />
+          <source src="PROFILE.mp4" type="video/mp4" />
       </video>
 
    
@@ -141,6 +141,52 @@ https://templatemo.com/tm-569-edu-meeting
 			
 			
 			
+			
+			
+			<div class="item">
+              <div class="icon">
+                <div class="icon"><a href="https://form.jotform.com/210942225118044" target=""><img src="https://cdn0.iconfinder.com/data/icons/business-management-139/33/business-management-06-512.png"></a></div>
+              </div>
+              <div class="down-content">
+                <h4>KARIR</h4>
+               
+              </div>
+            </div>
+
+
+<div class="item">
+              <div class="icon">
+                <div class="icon"><a href="http://192.168.88.203/webapps/presensi" target=""><img src="https://1.bp.blogspot.com/-efcrgVn7kNs/X3PuJdVayDI/AAAAAAAAG_s/gtyVvD55QSUJMI_zUF9ripq4VFWhu6bRQCLcBGAsYHQ/s512/EABS.png"></a></div>
+              </div>
+              <div class="down-content">
+                <h4>ABSEN</h4>
+               
+              </div>
+            </div>
+			
+			
+<div class="item">
+              <div class="icon">
+                <div class="icon"><a href="https://klinikasura.blogspot.com" target=""><img src="https://rsudkartini.jepara.go.id/wp-content/uploads/sites/85/2020/09/website.png"></a></div>
+              </div>
+              <div class="down-content">
+                <h4>WEBSITE</h4>
+               
+              </div>
+            </div>
+			
+
+
+
+<div class="item">
+              <div class="icon">
+                <div class="icon"><a href="https://aplikasiinformasiklinik.blogspot.com" target=""><img src="https://icon-library.com/images/software-icon-png/software-icon-png-10.jpg"></a></div>
+              </div>
+              <div class="down-content">
+                <h4>APLIKASI</h4>
+               
+              </div>
+            </div>
 			
 			
 			

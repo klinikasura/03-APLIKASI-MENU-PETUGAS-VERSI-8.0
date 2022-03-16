@@ -22,7 +22,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 <!-- site metas -->
-<title>Aplikasi RS. Asura Tugumulyo</title>
+<title>Aplikasi RS. Asura</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">	
@@ -166,7 +166,7 @@
                     	<div class="taital_main">
                     		
                     	</div>
-                         <h1 class="donec_text"><strong>Aplikasi RS. ASURA TUGU<a href="dsf" target="_blank"></a>MULYO </strong></h1>
+                         <h1 class="donec_text"><strong>Aplikasi RS. ASURA<a href="dsf" target="_blank"></a></strong></h1>
                         <p class="donec_text">Aplikasi Ini Dikembangkan Oleh IT Managemen Desain Hamba Alloh</p>
 						
 						
@@ -602,7 +602,7 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
     			</div>
     			<div class="col-md-6">
     				<div class="right_section_main">
-    					<h class="dolar_tetx"><strong style="color: #2ba879;">RS. ASURA TUGUMULYO</strong><h/>
+    					<h class="dolar_tetx"><strong style="color: #2ba879;">RS. ASURA</strong><h/>
     					<h2 class="special_text">Jl. Lintas Timur Desa Tugumulyo Kec. Lempuing Kab. OKI</h2>
 
     					<p class="donec_text"></p>
@@ -617,7 +617,7 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
     <div id="service" class="choose_section">
     	<div class="container">
     		<div class="col-sm-12">
-    			<h1 class="choose_text">Dokter<span class="color"> RS. ASURA TUGUMULYO</span></h1>
+    			<h1 class="choose_text">Dokter<span class="color"> RS. ASURA</span></h1>
     			<p class="lorem_text">Profesional Dan Berpengalaman</p>
     		</div>
     	</div>
@@ -725,7 +725,7 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
                 
 
 
-    		<p class="copy_text">RS. ASURA TUGUMULYO </p><p class="copy_text">Aplikasi Versi 6.0 </p>
+    		<p class="copy_text">RS. ASURA</p><p class="copy_text">Aplikasi Versi 6.0 </p>
 			 
     	</div>
     </div>
