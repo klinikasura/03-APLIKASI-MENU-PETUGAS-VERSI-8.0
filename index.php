@@ -1,117 +1,214 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta http-equiv="refresh" content="2;url=http://192.168.88.203/dashboard/indexweb.php">
-     <title>Aplikasi RS. Asura</title>
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <title>Aplikasi RS. Asura</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="MENU-UTAMA/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 
-
-
-
-
-
-
-
-	<link rel="stylesheet" type="text/css" href="assets-APLIKASI/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets-APLIKASI/css/costum.css">
-	<script type="text/javascript" src="assets-APLIKASI/js/jquery.min.js"></script>
-	<script type="text/javascript" src="assets-APLIKASI/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="assets-APLIKASI/js/loader.js"></script>
-
-
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
-  <link rel="stylesheet" href="TEMPLATE/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="TEMPLATE/css/templatemo-style.css" />
-  <link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="MENU-UTAMA/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="MENU-UTAMA/assets/css/templatemo-574-mexant.css">
+    <link rel="stylesheet" href="MENU-UTAMA/assets/css/owl.css">
+    <link rel="stylesheet" href="MENU-UTAMA/assets/css/animate.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
+	<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
 <!--
-Verticard Template
-https://templatemo.com/tm-533-verticard
--->
-<style type="text/css">
-<!--
-.style1 {color: #00CC00}
-.style2 {font-size: large}
-.style3 {
-	font-size: xx-large;
-	font-weight: bold;
-}
--->
-</style>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
 
+TemplateMo 574 Mexant
+
+https://templatemo.com/tm-574-mexant
+
+-->
+  </head>
 
 <body>
-<div class="tm-page-container mx-auto">
 
 
-    <section class="tm-section">
-      <div class="tm-content-container">
-        <figure class="mb-0">
-          <img src="PROFILE.gif" alt="Image" class="img-fluid tm-img" />
-        </figure>
-        <div class="tm-content style1">
-          <p align="center" class="style2"><font face="comic sans ms"><img src="http://192.168.88.203/dashboard/download.jpeg" alt="" width="116" height="122" border="0"></font></p>
-          <p align="center"><font face="comic sans ms" class="style2" align="center">Desain Hamba Alloh</font></p>
-          <p align="center"><font face="comic sans ms" class="style3" align="center">Aplikasi RS. Asura </font></p>
-		  <center><p><a href="https://time.is/Jakarta" id="time_is_link" rel="nofollow" style="font-size:36px"></a>  </p></center>
+  <!-- ***** Header Area Start ***** --><!-- ***** Header Area End ***** -->
 
+  <!-- ***** Main Banner Area Start ***** --><!-- ***** Main Banner Area End ***** -->
+<section class="testimonials" id="testimonials">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div align="center">Assalamualaikum Wr. Wb, Selamat Datang di Aplikasi Sistem Informasi RS. Asura</div>
+        </div>
+        <div class="col-lg-10 offset-lg-1">
+          <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
+            <div class="item">
+              <i class="fa fa-quote-left"></i>
+              <p>&ldquo;MENU UTAMA&rdquo;</p>
+              <h4>FITUR UTAMA SISTEM INFORMASI RS. ASURA</h4>
+              <span>KLIKt</span>
+              <div class="right-image">
+                <a href="http://192.168.88.203/dashboard/indexapk.php" target=""><img src="https://wharf850.com/wp-content/uploads/2019/04/icon-menu.png" alt="">  </a>            </div>
+            </div>
+            <div class="item">
+              <i class="fa fa-quote-left"></i>
+              <p>&ldquo;MENU ADMINISTRASI&rdquo;</p>
+              <h4>FITUR ADMINISTRASI SISTEM INFORMASI RS. ASURA</h4>
+                <span>KLIK</span>
+              <div class="right-image">
+                
+				
+				
+				<a href="http://192.168.88.203/dashboard/MENU-ADMIN/index.php" target=""><img src="https://statik.dpr.go.id/plugin-puspanlakuu/images/pemantauan.jpg" alt="">  </a>            </div>
+				
+				
+				
+            </div>
+			 <div class="item">
+              <i class="fa fa-quote-left"></i>
+              <p>&ldquo;MENU KEUANGAN&rdquo;</p>
+              <h4>FITUR KEUANGAN SISTEM INFORMASI RS. ASURA</h4>
+             <span>KLIK</span>
+              <div class="right-image">
+              
+				
+				
+				<a href="http://192.168.88.203/dashboard/MENU-KEUANGAN/index.php" target=""><img src="https://play-lh.googleusercontent.com/rqjaKEIz2QRidqBIJdjOwLHVzZlTLv-bxTPUhElyeWMgy8lRoSDa30_PvgAfXM0jVg" alt="">  </a>            </div>
+				
+				
+				
+				
+				
+            </div>
+			
+			
+			
+            <div class="item">
+              <i class="fa fa-quote-left"></i>
+              <p>&ldquo;MENU MANAGEMENT&rdquo;</p>
+              <h4>FITUR MANAGEMENT SISTEM INFORMASI RS. ASURA</h4>
+              <span>KLIK</span>
+              <div class="right-image">
+             
+			
+			
+			<a href="http://192.168.88.203/dashboard/MENU-MANAGEMENT/index.php" target=""><img src="https://madrasah.kemenag.go.id/__statics/img/icon/data.png" alt="">  </a>            </div>
+				
+			
+			
+			
+		    </div>
+			 <div class="item">
+              <i class="fa fa-quote-left"></i>
+              <p>&ldquo;HOTSPOT&rdquo;</p>
+              <h4>FITUR MENU MIKROTIK SISTEM INFORMASI RS. ASURA</h4>
+              <span>KLIK</span>
+              <div class="right-image">
+                
+				
+				
+				<a href="http://192.168.88.1/webfig/#Wireless.Interfaces.5" target=""><img src="https://cdn-icons-png.flaticon.com/512/4425/4425276.png" alt="">  </a>            </div>
+				
+				
+			
+			</div>
+			 <div class="item">
+              <i class="fa fa-quote-left"></i>
+              <p>&ldquo;PUBLIKASI&rdquo;</p>
+              <h4>FITUR PUBLIKASI SISTEM INFORMASI RS. ASURA</h4>
+              <span>KLIK</span>
+              <div class="right-image">
 
-
-
-
-
-
-
-
-
-
-
-						 
-<script src="//widget.time.is/id.js"></script></center>
-<script>
-time_is_widget.init({Jakarta_z41c:{template:"TIME<br>", date_format:""}});
-</script>
+			
+			<a href="http://192.168.88.203/dashboard/MENU-PUBLIKASI/index.php" target=""><img src="https://www.fiosgenomics.com/wp-content/uploads/2017/02/reports-icon.png" alt="">  </a>            </div>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+            </div>
+          </div>
         </div>
       </div>
-  </section>
-  
+    </div>
+</section>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright &copy; Aplikasi RS. Asura 
+          
+          <br>
+          Aplikasi Versi 6.0 </p>
+        </div>
+      </div>
+    </div>
+  </footer>
 
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+    <script src="MENU-UTAMA/vendor/jquery/jquery.min.js"></script>
+    <script src="MENU-UTAMA/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
+    <script src="MENU-UTAMA/assets/js/isotope.min.js"></script>
+    <script src="MENU-UTAMA/assets/js/owl-carousel.js"></script>
+    <script src="MENU-UTAMA/assets/js/wow.js"></script>
+    <script src="MENU-UTAMA/assets/js/tabs.js"></script>
+    <script src="MENU-UTAMA/assets/js/swiper.js"></script>
+    <script src="MENU-UTAMA/assets/js/custom.js"></script>
+    <script>
+        var interleaveOffset = 0.5;
 
+      var swiperOptions = {
+        loop: true,
+        speed: 1000,
+        grabCursor: true,
+        watchSlidesProgress: true,
+        mousewheelControl: true,
+        keyboardControl: true,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev"
+        },
+        on: {
+          progress: function() {
+            var swiper = this;
+            for (var i = 0; i < swiper.slides.length; i++) {
+              var slideProgress = swiper.slides[i].progress;
+              var innerOffset = swiper.width * interleaveOffset;
+              var innerTranslate = slideProgress * innerOffset;
+              swiper.slides[i].querySelector(".slide-inner").style.transform =
+                "translate3d(" + innerTranslate + "px, 0, 0)";
+            }      
+          },
+          touchStart: function() {
+            var swiper = this;
+            for (var i = 0; i < swiper.slides.length; i++) {
+              swiper.slides[i].style.transition = "";
+            }
+          },
+          setTransition: function(speed) {
+            var swiper = this;
+            for (var i = 0; i < swiper.slides.length; i++) {
+              swiper.slides[i].style.transition = speed + "ms";
+              swiper.slides[i].querySelector(".slide-inner").style.transition =
+                speed + "ms";
+            }
+          }
+        }
+      };
 
-	<center><div id="">	</center>
-		<center><div class="logoLoader"></div>	</center>
-		<center><span class="loader"></span>	</center>
-		<div class="textLoader">	</center>
-			<center><span id="Jakarta_z41c" style="font-size:24px"></span>
-			<b>Versi 6.0</b>
-			</center>
-			
-		</div>
-	</div>	</center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <footer></footer>
-</div>
+      var swiper = new Swiper(".swiper-container", swiperOptions);
+    </script>
 </body>
-
 </html>
