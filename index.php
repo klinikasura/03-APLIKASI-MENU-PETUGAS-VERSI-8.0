@@ -49,7 +49,7 @@ https://templatemo.com/tm-574-mexant
               <i class="fa fa-quote-left"></i>
               <p>&ldquo;MENU UTAMA&rdquo;</p>
               <h4>FITUR UTAMA SISTEM INFORMASI RS. ASURA</h4>
-              <span>KLIKt</span>
+              <span>KLIK</span>
               <div class="right-image">
                 <a href="http://192.168.88.203/dashboard/indexapk.php" target=""><img src="https://wharf850.com/wp-content/uploads/2019/04/icon-menu.png" alt="">  </a>            </div>
             </div>
