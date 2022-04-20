@@ -41,10 +41,7 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
        <li><a href="KOP.pdf"target="frame">Kop Surat Klinik</a></li>
 	   
 	   
-              <li><a href="#">3</a></li>             
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-			          <li><a href="#">6</a></li>
+              
             </ul>
           </li>
           
@@ -57,7 +54,7 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
       <div class="templatemo-content-wrapper">
         <div class="templatemo-content">
       
-    <iframe src="http://192.168.88.203/dashboard/frame.jpg" name="frame" width="1000" height="1500" scrolling="no"></iframe>
+    <iframe src="http://192.168.88.203/dashboard/MENU-PUBLIKASI/PUBLIKASI.png" name="frame" width="100%" height="600px" allowtransparency="true" noresize="noresize"></iframe>
           </ol>
           <div class="margin-bottom-30">
             <div class="row"></div>
