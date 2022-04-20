@@ -41,10 +41,19 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
        <li><a href="http://192.168.88.203/dashboard/pendaftaran.html"target="frame">Cetak Dokumen</a></li>
 	   
 	   
-              <li><a href="#">3</a></li>             
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-			          <li><a href="#">6</a></li>
+	    <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/pasien/manage?t=c0ffd1106a72"target="frame">Pendaftaran Pasien</a></li>
+		
+		<li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/rawat_jalan/index?t=c0ffd1106a72"target="frame">Info Rawat Jalan</a></li>
+		
+		<li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/rawat_inap/manage?t=c0ffd1106a72"target="frame">Info Rawat Inap</a></li>
+		
+		
+		<li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/pasien_galleries/manage?t=c0ffd1106a72"target="frame">Galeri Pasien</a></li>
+		
+		
+	
+	   
+             
             </ul>
           </li>
           
@@ -57,7 +66,7 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
       <div class="templatemo-content-wrapper">
         <div class="templatemo-content">
       
-    <iframe src="http://192.168.88.203/dashboard/frame.jpg" name="frame" width="1000" height="1500" scrolling="no"></iframe>
+   <iframe src="http://192.168.88.203/dashboard/MENU-ADMIN/ADMIN.jpg" name="frame" width="100%" height="600px" allowtransparency="true" noresize="noresize"></iframe>
           </ol>
           <div class="margin-bottom-30">
             <div class="row"></div>
