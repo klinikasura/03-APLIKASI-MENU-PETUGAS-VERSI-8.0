@@ -37,14 +37,16 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
               <i class="fa fa-database"></i> Data <div class="pull-right"><span class="caret"></span></div>
             </a>
             <ul class="templatemo-submenu">
-              <li><a href="http://192.168.88.203/dashboard/MENU-MANAGEMENT/rl4b.html"target="frame">Data Kunjungan</a></li>
-       <li><a href="http://192.168.88.203/dashboard/MENU-MANAGEMENT/sensusharian.html"target="frame">Data Sensus Harian</a></li>
+              <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/manajemen/dashboard?t=c0ffd1106a72"target="frame">Manajemen Data</a></li>
+       <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/master/manage?t=c0ffd1106a72"target="frame">Master Data</a></li>
+	   
+	   <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/kepegawaian/manage?t=c0ffd1106a72"target="frame">Kepegawaian</a></li>
+	   
+	    <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/users/index?t=c0ffd1106a72"target="frame">Pengguna User</a></li>
 	   
 	   
-              <li><a href="#">3</a></li>             
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-			          <li><a href="#">6</a></li>
+	   
+             
             </ul>
           </li>
           
@@ -57,7 +59,7 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
       <div class="templatemo-content-wrapper">
         <div class="templatemo-content">
       
-    <iframe src="http://192.168.88.203/dashboard/frame.jpg" name="frame" width="1000" height="1000" noresize="noresize"></iframe>
+    <iframe src="http://192.168.88.203/dashboard/MENU-MANAGEMENT/MANAGEMENT.png" name="frame" width="100%" height="600px" allowtransparency="true" noresize="noresize"></iframe>
           </ol>
           <div class="margin-bottom-30">
             <div class="row"></div>
