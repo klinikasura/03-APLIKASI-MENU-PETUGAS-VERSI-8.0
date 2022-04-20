@@ -34,20 +34,38 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
           <li class="active"><a href="index.php"><i class="fa fa-home"></i>Dashboard</a></li>
           <li class="sub open">
             <a href="javascript:;">
-              <i class="fa fa-database"></i> Data <div class="pull-right"><span class="caret"></span></div>
+              <i class="fa fa-database"></i> Data Keuangan <div class="pull-right"><span class="caret"></span></div>
             </a>
             <ul class="templatemo-submenu">
-              <li><a href="http://192.168.88.203/webapps/billing/LaporanBilling.php?petugas=016&tanggal="target="frame">Biaya Pasien</a></li>
-       <li><a href="http://192.168.88.203/dashboard/MENU-KEUANGAN/SaldoAkunPerBulan.html"target="frame">Jurnal Akutansi Perbulan</a></li>
-	   
-	   
-              <li><a href="#">3</a></li>             
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-			          <li><a href="#">6</a></li>
+              <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/kasir_rawat_jalan/manage?t=c0ffd1106a72" target="frame">Rawat Jalan</a></li>
+       <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/kasir_rawat_inap/manage?t=c0ffd1106a72"target="frame">Rawat Inap</a></li>      
             </ul>
           </li>
           
+		  
+		  
+		  <li class="sub open">
+            <a href="javascript:;">
+              <i class="fa fa-database"></i> BPJS <div class="pull-right"><span class="caret"></span></div>
+            </a>
+            <ul class="templatemo-submenu">
+              <li><a href="pcare.html"target="frame">P'Care</a></li>
+       <li><a href="antrian.html"target="frame">Antrian Online BPJS</a></li>
+	   
+	   
+             <li><a href="https://hfis.bpjs-kesehatan.go.id/hfis/login"target="frame">HFIS</a></li>         
+              <li><a href="whatsapp.html"target="frame">Cek JKN-KIS</a></li>
+            </ul>
+          </li>
+		  
+		  
+		  <li><a href="https://u.pcloud.link/publink/show?code=XZuyUJVZ0DyOJnCmjRbr3S70O8Qheb6fkYsV"target="frame">Download Aplikasi</a></li>
+            </ul>
+          </li>
+		  
+		  
+		      
+		  
                
           
           <li><a href="http://192.168.88.203/dashboard/"  data-target="index.php"><i class="fa fa-sign-out"></i>Logout</a></li>
@@ -57,7 +75,7 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
       <div class="templatemo-content-wrapper">
         <div class="templatemo-content">
       
-    <iframe src="http://192.168.88.203/dashboard/frame.jpg" name="frame" width="1000" height="1000" noresize="noresize"></iframe>
+    <iframe src="http://192.168.88.203/dashboard/MENU-KEUANGAN/menu-keuangan.png" name="frame" width="100%" height="600px" allowtransparency="true" noresize="noresize"></iframe>
           </ol>
           <div class="margin-bottom-30">
             <div class="row"></div>
