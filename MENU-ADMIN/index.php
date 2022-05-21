@@ -34,11 +34,11 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
           <li class="active"><a href="index.php"><i class="fa fa-home"></i>Dashboard</a></li>
           <li class="sub open">
             <a href="javascript:;">
-              <i class="fa fa-database"></i> Data <div class="pull-right"><span class="caret"></span></div>
+              <i class="fa fa-database"></i> Data Administrasi <div class="pull-right"><span class="caret"></span></div>
             </a>
             <ul class="templatemo-submenu">
               <li><a href="http://192.168.88.203/webapps/poli.php"target="frame">Data Pasien Hari Ini</a></li>
-       <li><a href="http://192.168.88.203/dashboard/pendaftaran.html"target="frame">Cetak Dokumen</a></li>
+     
 	   
 	   
 	    <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/pasien/manage?t=c0ffd1106a72"target="frame">Pendaftaran Pasien</a></li>
@@ -53,12 +53,47 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
 		
 	
 	   
-             
+            
+                
             </ul>
           </li>
           
-               
           
+		  
+		  
+		  
+		  
+		
+          </li>
+  
+          <li class="sub open">
+            <a href="javascript:;">
+              <i class="fa fa-database"></i> Data Cetak <div class="pull-right"><span class="caret"></span></div>
+            </a>
+            <ul class="templatemo-submenu">
+              
+       <li><a href="http://192.168.88.203/dashboard/pendaftaran.html"target="frame">Cetak Dokumen</a></li>
+	   
+	   
+
+ 
+            </ul>
+          </li>
+          
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
           <li><a href="http://192.168.88.203/dashboard/"  data-target="index.php"><i class="fa fa-sign-out"></i>Logout</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
