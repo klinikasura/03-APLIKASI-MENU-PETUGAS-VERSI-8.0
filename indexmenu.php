@@ -40,7 +40,7 @@
 
 <center><button type="button" class="get_bg" id="goFS">KLIK LAYAR PENUH</button>
 <button type="button" class="get_bg">
- <a href="http://192.168.88.203/dashboard/indexweb.php" >MENU</a>
+ <a href="http://192.168.88.203/dashboard/indexweb.php" >MENU HALAMAN</a>
 </button></center>
 
 
@@ -393,8 +393,8 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
     	    <div class="row">
     		    <div class="col-sm-4">
     			   <div class="dedicated">
-    				    <div class="icon"><a href="http://192.168.88.203/webapps/AnjunganAntrianDisplayPhp/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhLp3H81qSYxmYV6JiwOODOS1E3Wu1Sed01oYVoui-oQD-dfAt_ug5dTybP-GfQojPs1ROtPPLH3n1Lm8OhjFJ_c3NnMHyfgYYOn-TQguzlXIOeLfBmhOWA05MH2GlFL7Eyjkb51rHF9WnmvNvm9N513piHRiK0Fphxe1OtYGYR3_pOuqvCq--sEvfuSA=w200-h200"></a></div>
-    				    <h2 class="hosting_text">ANJUNGAN MANDIRI
+    				    <div class="icon"><a href="http://192.168.88.203/dashboard/kritikdansaran.html"><img src="http://192.168.88.203/dashboard/kritikdansaran.png"></a></div>
+    				    <h2 class="hosting_text">KRITIK DAN SARAN
 </h2>
     				
    			      </div>
@@ -434,8 +434,8 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
     		    </div>
     		    <div class="col-sm-4">
     			     <div class="dedicated">
-    				    <div class="icon"><a href="http://192.168.88.203/webapps/presensi/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj8SOcLGUdOkWlkEpCONRCCVF6QNA61Fpk_Ie00oQ198rWYs31FfbJ16Kwj8IET5yDsKh2mMFh1DhFkFZS4Z-xZvNpnFormCwVOYMSXvFdTYoliNc55s877hNtikjr-tmkRTjSXlUtnr_A1b1tOBBAtANhMC30oS-3h6HdQGKkKMv9LhSJ4N2AkDiZ1AA=w200-h200" border="0"></a></div>
-    				    <h2 class="hosting_text">ABSENSI KARYAWAN
+    				    <div class="icon"><a href="http://192.168.88.203/dashboard/jadwal.php"><img src="http://192.168.88.203/dashboard/APLIKASI/anjungan/jadwal.png" border="0"></a></div>
+    				    <h2 class="hosting_text">JADWAL DOKTER
 
 </h2>
     				  
@@ -593,101 +593,8 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
     <!-- choose start -->
 	
 	
-    <!-- about start -->
-    <div class="about_main layout_padding">
-    	<div class="container">
-    		<div class="row">
-    			<div class="col-md-6">
-    				<div class="images"><a href="http://192.168.88.203/dashboard/download.jpeg"><img src="http://192.168.88.203/dashboard/download.jpeg" width="359" height="339" style="max-width: 100%;"></a></div>
-    			</div>
-    			<div class="col-md-6">
-    				<div class="right_section_main">
-    					<h class="dolar_tetx"><strong style="color: #2ba879;">RS. ASURA</strong><h/>
-    					<h2 class="special_text">Jl. Lintas Timur Desa Tugumulyo Kec. Lempuing Kab. OKI</h2>
-
-    					<p class="donec_text"></p>
-    					<div class="right_aero"><img src="images/right-aerow.png"></div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    </div>
-    <!-- about end -->
-    <!-- service start -->
-    <div id="service" class="choose_section">
-    	<div class="container">
-    		<div class="col-sm-12">
-    			<h1 class="choose_text">Dokter<span class="color"> RS. ASURA</span></h1>
-    			<p class="lorem_text">Profesional Dan Berpengalaman</p>
-    		</div>
-    	</div>
-    </div>
-    <div class="choose_section_2">
-    	<div class="container">
-    	    <div class="row">
-    		    <div class="col-sm-4">
-    			   <div class="dedicated">
-    				    <div class="icon"><a href="jadwal.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjf0wAfEpr4jWjdfnDEiT_98-9cZoyPPJ0ygGbXtwPTJjBqWuoBN_2sv5OXZsRrJ-Pf10NnvDT5MO_qqq5QDg3r6R-tBxnFkHXDHK_CsAAkHhlL9xXotjIpF7ssKtLepGJywiwJI7jclBK0gvXkPGrLYUrgNf2cd2mBKQGX1wcOttjhhKkIFysPHMAwdw=s320"></a></div>
-    				    <h2 class="hosting_text">dr. Hj. Aisyah
-</h2>
-    				    <p class="justo_text">Dokter Umum</p>
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			    <div class="dedicated">
-    				    <div class="icon"><a href="jadwal.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhobxZehoSmnhnL7NJaXGJ1WX4f1Kr07pEXIavGWavb2G8Uee0eqD3xkzaQhyvfoEsuedCDT2pNvG55OTnVu64O8Xu0Hw8cewiUV5LgE8IbWwl0_KpvvsxHpHEHlDYg76zFaFgCDwEo2VT8a-t37q484wbALlR8kJQo-SoTG3GzqvI0fI9ITdW2Hw5R6A=s320"></a></div>
-    				    <h2 class="hosting_text">dr. M. Ricky Meirizkian
-</h2>
-    				    <p class="justo_text">Dokter Umum</p>
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			     <div class="dedicated">
-    				    <div class="icon"><a href="jadwal.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgZbF4ohQ2LZjqwBbhgg632AGj_A5c8b0ayD6wM3T5n1Eg92vEllhbMgVopqy-rKt1cZBK9kBo3aq7Ire6yJYaHCdUtLOiyP7GN8suuXXHF9OtgbHuMnfUZEI8MHPlfj5OmnbeF29xMXWf_ClnCpIIWIJV0W4kbu7gMKPvfF46brNW1t42RGY26zzrTQQ=s320"></a></div>
-    				    <h2 class="hosting_text">drg. Peniza Suliati
-</h2>
-    				    <p class="justo_text">Poli Gigi</p>
-    			    </div>
-    		    </div>
-    	    </div>    		
-    	</div>
-    </div>
-
-    <div class="choose_section_2">
-    	<div class="container">
-    	    <div class="row">
-    		    <div class="col-sm-4">
-    			     <div class="dedicated">
-    				    <div class="icon"><a href="jadwal.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjRFLF_LUrNuau_41gNGMHcLOubi6Kw5g-wpNLe0RGCCGLBpj9p7ewZFn0s2KHQUleNMhaSSpZD9zKIIYjcRdOvaZqliiZzenK83jabqfKBF6yo3h3Vur6KzuXtMMfYH47wPfN-wQWa3g94xnKkPEgtXjz_qiIzgdL0h2EA7e6s3wEe7eFx2XSZLOBiTA=s320"></a></div>
-    				    <h2 class="hosting_text">drg. Hendrik Redhian
-</h2>
-    				    <p class="justo_text">Poli Gigi</p>
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			     <div class="dedicated">
-    				    <div class="icon"><a href="jadwal.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhDizx-e8nPs9Dpy7Xw3m7xkOIZ-AiVJvNdocN8gGbF5bqrq5joDRp4N3v7OEiE8zm77VCZYM656Z3cDWUwyjrtYPrhyjFz3SbxTPWWmLan34SXj6zZDI1UWaTP9TFbZLf25cdnKgpyFsF1rgJJ3m22autcRonaDQtzIeIUg5uRlyQ2EHI8TLzypi8t6Q=s320"></a></div>
-    				    <h2 class="hosting_text">dr. H. Deddy Primadona Mulia, Sp.PD, FINASIM
-
-</h2>
-    				    <p class="justo_text">Poli Penyakit Dalam</p>
-    			    </div>
-    		    </div>
-    		    <div class="col-sm-4">
-    			      <div class="dedicated">
-    				    <div class="icon"><a href="jadwal.php"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj8SGN4y9VE7qMyiExuuoAV6a92d1Ap2OApGdcF22iBdI6CAAJ-D0X_2Ufiq5NHH9NBdFu0KczMH21_tiTc85k-cbHhR540CkmLSRPaI4wY5Y7vZfyVLNEAe6gfzc7AGjf3ckAaV8CNCaewosFie2KRR6U2eT16gIwrPbXiEcAPnpzl7DPaG_gfa6W0Kw=s320"></a></div>
-    				    <h2 class="hosting_text">dr. H. Tomas Ediba Sp.OG</h2>
-    				    <p class="justo_text">Poli Kandungan</p>
-    			    </div>
-    		    </div>
-    	    </div>
-    	    <div class="bt_main">
-    	    	
-            </div>   		
-    	</div>
-    </div>
-
-    <!-- service end -->
+    
+    
                 
 
     <!-- contact start -->

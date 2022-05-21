@@ -52,8 +52,7 @@ https://templatemo.com/tm-533-verticard
     <section class="tm-section">
       <div class="tm-content-container">
         <figure class="mb-0">
-          <img src="PROFILE.gif" alt="Image" class="img-fluid tm-img" />
-        </figure>
+          <img src="TEMA.gif" alt="Image" width="1080" height="1080" class="img-fluid tm-img" />        </figure>
         <div class="tm-content style1">
           <p align="center" class="style2"><font face="comic sans ms"><img src="http://192.168.88.203/dashboard/download.jpeg" alt="" width="116" height="122" border="0"></font></p>
           <p align="center"><font face="comic sans ms" class="style2" align="center">Desain Hamba Alloh</font></p>

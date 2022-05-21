@@ -1,13 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
+
+
   <head>
+  
+  	
+
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+	<!-- bootstrap css -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<!-- style css -->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!-- Responsive-->
+<link rel="stylesheet" href="css/responsive.css">
+<!-- Scrollbar Custom CSS -->
+<link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+<!-- Tweaks for older IEs-->
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+	<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
+  <center><button type="button" class="get_bg" id="goFS">KLIK LAYAR PENUH</button>
+<button type="button" class="get_bg">
+ <a href="http://192.168.88.203/dashboard/indexmanagement.php" >MENU MANAGEMENT</a>
+</button></center>
+
+
+<script>
+
+  var goFS = document.getElementById("goFS");
+
+  goFS.addEventListener("click", function() {
+
+      document.body.requestFullscreen();
+
+  }, false);
+
+</script>
 
     <title>Aplikasi RS. Asura</title>
 
@@ -20,7 +54,13 @@
     <link rel="stylesheet" href="assetsweb/css/templatemo-edu-meeting.css">
     <link rel="stylesheet" href="assetsweb/css/owl.css">
     <link rel="stylesheet" href="assetsweb/css/lightbox.css">
-	<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
+
+	
+	
+	
+	
+	
+	
 <!--
 
 TemplateMo 569 Edu Meeting
@@ -29,6 +69,8 @@ https://templatemo.com/tm-569-edu-meeting
 
 -->
   </head>
+  
+  
 
 <body>
 
@@ -40,7 +82,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="indexweb.php" class="logo">
-                         Aplikasi RS. Asura                    </a>
+                         Aplikasi RS. Asura  - MENU HALAMAN                  </a>
                       <!-- ***** Logo End ***** -->
                       
                 </nav>
@@ -55,7 +97,7 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
       <video autoplay muted loop id="bg-video">
-          <source src="PROFILE.mp4" type="video/mp4" />
+          <source src="tema.mp4" type="video/mp4" />
       </video>
 
    
@@ -82,7 +124,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="icon"><a href="http://192.168.88.203/dashboard/indexmenu.php" target=""><img src="https://wharf850.com/wp-content/uploads/2019/04/icon-menu.png"></a></div>
               </div>
               <div class="down-content">
-                <h4>MENU</h4>
+                <h4>BERANDA</h4>
 			  </div>
             </div>
 				
@@ -142,16 +184,7 @@ https://templatemo.com/tm-569-edu-meeting
 			
 			
 			
-			
-			<div class="item">
-              <div class="icon">
-                <div class="icon"><a href="https://form.jotform.com/210942225118044" target=""><img src="https://cdn0.iconfinder.com/data/icons/business-management-139/33/business-management-06-512.png"></a></div>
-              </div>
-              <div class="down-content">
-                <h4>KARIR</h4>
-               
-              </div>
-            </div>
+		
 
 
 <div class="item">
@@ -191,15 +224,7 @@ https://templatemo.com/tm-569-edu-meeting
 			
 			
             
-            <div class="item">
-              <div class="icon">
-                 <div class="icon"><a href="http://192.168.88.1/webfig/#Wireless.Interfaces.5" target=""><img src="https://cdn-icons-png.flaticon.com/512/4425/4425276.png"></a></div>
-              </div>
-              <div class="down-content">
-                <h4>LOGIN HOTSPOT</h4>
-                
-              </div>
-            </div>
+            
             
             
           </div>
