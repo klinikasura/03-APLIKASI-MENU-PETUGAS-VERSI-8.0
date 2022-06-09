@@ -632,7 +632,7 @@ time_is_widget.init({Jakarta_z41c:{template:"TIME<br>DATE", date_format:"dayname
                 
 
 
-    		<p class="copy_text">RS. ASURA</p><p class="copy_text">Aplikasi Versi 6.0 </p>
+    		<p class="copy_text">RS. Asura</p><p class="copy_text">Aplikasi Versi 8.0 </p>
 			 
     	</div>
     </div>

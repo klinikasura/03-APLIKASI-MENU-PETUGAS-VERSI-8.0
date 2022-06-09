@@ -36,7 +36,7 @@
 		<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
   <center><button type="button" class="get_bg" id="goFS">KLIK LAYAR PENUH</button>
 <button type="button" class="get_bg">
- <a href="http://192.168.88.203/dashboard/" >MENU UTAMA</a>
+ <a href="http://192.168.88.203/dashboard/indexutama.php" >MENU UTAMA</a>
 </button></center>
 
 
