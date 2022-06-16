@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -229,6 +227,25 @@ https://templatemo.com/tm-543-breezed
     
     <!-- Global Init -->
     <script src="MASTER8.0/assets/js/custom.js"></script>
+
+<a href="http://192.168.88.203/dashboard/DOWNLOAD-APLIKASI">
+<img src="http://192.168.88.203/dashboard/DOWNLOAD-APLIKASI/DOWNLOAD.png" class="wabutton" alt="Download Aplikasi" />
+</a>
+<style>
+.wabutton{
+width:80px;
+height:80px;
+position:fixed;
+bottom:20px;
+right:20px;
+z-index:100;
+}
+</style>
+
+
+
+
+
 
 
   </body>
