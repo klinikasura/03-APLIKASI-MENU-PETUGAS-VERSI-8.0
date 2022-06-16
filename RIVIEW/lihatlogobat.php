@@ -25,12 +25,12 @@ echo '
 .style13 {font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
 -->
 </style>
-<title>LOG OBAT</title><table border="1">
+<title>LOG OBAT</title><table width="762" border="1">
 		<thead>
 			<tr>
 			
-				<th bgcolor="#00FF00"><p align="center" class="style12">Tanggal Mutasi Obat</p></th>
-<th bgcolor="#00FF00"><p align="center" class="style12">Keterangan</p></th>
+			  <th width="267" bgcolor="#00FF00"><p align="center" class="style12">Tanggal Mutasi Obat</p></th>
+<th width="479" bgcolor="#00FF00"><p align="center" class="style12">Keterangan</p></th>
 
 			</tr>
 		</thead>
@@ -52,12 +52,9 @@ echo '
 </table>
 ';
 
-
-// Apakah kita perlu menjalankan fungsi mysqli_free_result() ini? baca bagian VII
-mysqli_free_result($query);
-
-// Apakah kita perlu menjalankan fungsi mysqli_close() ini? baca bagian VII
-mysqli_close($conn);
+?>
 
 
+
+<meta http-equiv="refresh" content="120;url=http://192.168.88.203/dashboard/RIVIEW/DATAPASIEN/index.php">
 

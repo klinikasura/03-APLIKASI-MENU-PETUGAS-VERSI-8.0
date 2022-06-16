@@ -16,7 +16,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/templatemo-style.css" rel="stylesheet">
 		<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
-		 <meta http-equiv="refresh" content="8;url=http://192.168.88.203/dashboard/RIVIEW/index.php">
+		 <meta http-equiv="refresh" content="120;url=http://192.168.88.203/dashboard/RIVIEW/index.php">
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -39,8 +39,8 @@
         <nav class="templatemo-left-nav">          
           <ul>
             <li><a href="index.php" class="active"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
-            <li><a href="lihatpasien.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Pasien </a></li>
-            <li><a href="lihatobat.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Harga Obat</a></li>
+            <li><a href="http://192.168.88.203/dashboard/RIVIEW/DATAPASIEN/index.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Pasien </a></li>
+            <li><a href="http://192.168.88.203/dashboard/RIVIEW/DATAOBAT/index.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Harga Obat</a></li>
             
 			
 			   <li><a href="lihatlogobat.php" target="frame"><i class="fa fa-database fa-fw"></i>Log Stok Awal</a></li>
@@ -135,9 +135,7 @@
       
     </script>
     <script type="text/javascript" src="js/templatemo-script.js"></script>      <!-- Templatemo Script -->
-<script> 
-     alert("Dilarang Akses Halaman Ini Kecuali Izin Bagian Informasi Teknologi (IT)"); 
-</script> 
+
 	
   </body>
 </html>

@@ -47,7 +47,7 @@ while ($row = mysqli_fetch_array($query))
 			<td bgcolor="#CCCCCC"><p align="left" class="style13">'.$row['nama'].'</p></td>
 			  <td bgcolor="#CCCCCC"><p align="center" class="style13">'.$row['jk'].'</p></td>
 	  <td bgcolor="#CCCCCC"><p align="center" class="style13">'.$row['agama'].'</p></td>
-	    <td bgcolor="#CCCCCC"><p align="center" class="style13">'.$row['alamat'].'</p></td>
+	    <td bgcolor="#CCCCCC"><p align="left" class="style13">'.$row['alamat'].'</p></td>
 		  <td bgcolor="#CCCCCC"><p align="center" class="style13">'.$row['no_telp'].'</p></td>
 	
 	
@@ -63,11 +63,8 @@ echo '
 ';
 
 
-// Apakah kita perlu menjalankan fungsi mysqli_free_result() ini? baca bagian VII
-mysqli_free_result($query);
+?>
 
-// Apakah kita perlu menjalankan fungsi mysqli_close() ini? baca bagian VII
-mysqli_close($conn);
-
+<meta http-equiv="refresh" content="120;url=http://192.168.88.203/dashboard/RIVIEW/DATAPASIEN/index.php">
 
 
