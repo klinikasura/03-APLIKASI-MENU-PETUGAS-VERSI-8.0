@@ -103,10 +103,10 @@ http://www.templatemo.com/preview/templatemo_415_dashboard
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright &copy; Aplikasi RS. Asura 
+          <p>Copyright &copy; RS. Asura 
           
           <br>
-          Aplikasi Versi 6.0 </p>
+          Aplikasi Versi 8.0 </p>
         </div>
       </div>
     </div>
