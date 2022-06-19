@@ -24,11 +24,12 @@ body,td,th {
 }
 body {
 	background-color: #CCCCCC;
+	background-image: url(BG.jpg);
 }
 -->
 </style></head>
 
-<body class="templatemo-bg-image-1">
+
 
 <div class="container">
 		<div class="col-md-12">			
