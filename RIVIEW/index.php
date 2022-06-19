@@ -1,3 +1,64 @@
+<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style type="text/css">
+  body{
+  padding: 25px;
+  margin : 200px:
+}
+  .style1 {
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
+  .style2 {font-family: "Times New Roman", Times, serif}
+  .style4 {
+	color: #FF0000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+}
+  .style5 {color: #009900; font-family: "Times New Roman", Times, serif; }
+  .style7 {color: #00CC00; font-family: "Times New Roman", Times, serif; }
+  .style8 {color: #000000}
+  </style>
+  </head>
+  <body>
+    <div class="alert alert-success" role="alert">
+     
+      <p class="style1 style2">Selamat Datang Di Aplikasi RS. Asura Versi 8.0 | Desain Hamba Alloh</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1">Informasi : </p>
+      <p class="style1"><span class="style4">- Untuk Petugas Apotik Agar Selalu Koneksi Internet Dulu Sebelum Menggunakan Komputer</span></p>
+      <p class="style4"> - Silahkan Masukan Nama Obat Atau Kode Obat Untuk Mencari Nama Obat Di Kotak Pencarian Lalu Klik Cari </p>
+      <p class="style4">- Aplikasi Refresh 120 Detik Sekali Untuk Otomatis Sama Dengan DATABASE SIMRS</p>
+      <p class="style4">- Menu Daftar Harga Obat Hanya Untuk Assisten Apoteker Untuk Cek Harga Obat </p>
+      <p class="style4">&nbsp;</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style5">UPDATE APLIKASI RS. ASURA VERSI 8.0</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1 style8">* SUDAH ADA DAFTAR HARGA OBAT DI MENU DEVELOPMENT PROGRAM</p
+      ><p class="style1">* SUDAH ADA MENU DEVELOPMENT PROGRAM</p>
+      <p class="style1">* SUDAH ADA APLIKASI APOTIK</p>
+      <p class="style1">* SUDAH ADA APLIKASI KEUANGAN</p>
+      <p class="style1">* SUDAH ADA MENU APOTIK</p>
+      <p class="style1">* SUDAH ADA MENU CEK TAGIHAN PBB &amp; TELKOM (WIFI) </p>
+      <p class="style1">* SUDAH ADA MENU MANAGEMENT</p>
+      <p class="style1">* SUDAH ADA MENU CETAK</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1">CATATAN : <a href="http://192.168.88.203/dashboard/NOTIFIKASI/INFO.jpg" target="_blank">CARA MENGHIDUPKAN CPU SERVER SIMRS (KLIK) </a></p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1"><a href="http://192.168.88.203/dashboard/kritikdansaran.html">BERIKAN KRITIK DAN SARAN (KLIK) </a></p>
+      <p class="style7">SEMANGAT SELALU DAN PROFESIONAL, SEMOGA BERKAH DAN BERMANFAAT</p>
+    </div>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  </body>
+  <script type="text/javascript">
+  window.setTimeout(function() {
+    $(".alert").fadeTo(500, 0).slideUp(500, function(){
+        $(this).remove(); 
+    });
+}, 8000);
+</script>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
