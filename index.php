@@ -1,6 +1,75 @@
+<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style type="text/css">
+  body{
+  padding: 25px;
+  margin : 200px:
+}
+  .style1 {
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
+  .style2 {font-family: "Times New Roman", Times, serif}
+  .style3 {
+	color: #FF0000;
+	font-size: 14px;
+}
+  .style4 {
+	color: #FF0000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+}
+  .style5 {color: #009900; font-family: "Times New Roman", Times, serif; }
+  </style>
+  </head>
+  <body>
+    <div class="alert alert-success" role="alert">
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p class="style1 style2">Selamat Datang Di Aplikasi RS. Asura Versi 8.0 | Desain Hamba Alloh</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1">Informasi : <span class="style3">Untuk Petugas Pendaftaran Dan Apotik Agar Selalu Koneksi Internet Dulu Sebelum Menggunakan Komputer Dan</span></p>
+      <p class="style4">Untuk Para Petugas Pendaftaran Agar Selalu Memperhatikan Input Data Pasien Agar Tidak Terjadi Kesalahan Data </p>
+      <p class="style1">&nbsp;</p>
+      <p class="style5">UPDATE APLIKASI RS. ASURA VERSI 8.0</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1">* SUDAH ADA DAFTAR HARGA OBAT DI MENU DEVELOPMENT PROGRAM</p>
+      <p class="style1">* SUDAH ADA MENU DEVELOPMENT PROGRAM</p>
+      <p class="style1">* SUDAH ADA APLIKASI APOTIK</p>
+      <p class="style1">* SUDAH ADA APLIKASI KEUANGAN</p>
+      <p class="style1">* SUDAH ADA MENU APOTIK</p>
+      <p class="style1">* SUDAH ADA MENU CEK TAGIHAN PBB &amp; TELKOM (WIFI) </p>
+      <p class="style1">* SUDAH ADA MENU MANAGEMENT</p>
+      <p class="style1">* SUDAH ADA MENU CETAK</p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1">CATATAN : <a href="http://192.168.88.203/dashboard/NOTIFIKASI/INFO.jpg" target="_blank">CARA MENGHIDUPKAN CPU SERVER SIMRS (KLIK) </a></p>
+      <p class="style1">&nbsp;</p>
+      <p class="style1"><a href="http://192.168.88.203/dashboard/kritikdansaran.html">BERIKAN KRITIK DAN SARAN (KLIK) </a></p>
+      <p class="style1">&nbsp;</p>
+      <p class="style5">SEMANGAT SELALU DAN PROFESIONAL, SEMOGA BERKAH DAN BERMANFAAT</p>
+    </div>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  </body>
+  <script type="text/javascript">
+  window.setTimeout(function() {
+    $(".alert").fadeTo(500, 0).slideUp(500, function(){
+        $(this).remove(); 
+    });
+}, 8000);
+</script>
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  
+  
+  
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -45,13 +114,31 @@ https://templatemo.com/tm-543-breezed
     <!-- ***** Header Area Start ***** -->
     <header class="header-area header-sticky">
         <div class="container">
+		
+		
+		
+		
             <div class="row">
                 <div class="col-12">
                   <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
                         <a href="index.php" class="logo">
-                          RS. Asura
-                        </a>
+                          RS. Asura                        </a>
+						  
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
 <ul class="nav">
@@ -80,9 +167,10 @@ https://templatemo.com/tm-543-breezed
                 <input type="search" name="q" placeholder=" DESAIN HAMBA ALLOH" aria-label="Search through site content">
             </fieldset>
             <fieldset>
-                <center><button type="submit" class="main-button">Versi 8.0</button></center>
+                <center><button type="submit" class="main-button">Versi 8.0</button>
+                </center>
             </fieldset>
-        </form>
+      </form>
 		
 		
     </div>
@@ -110,8 +198,7 @@ https://templatemo.com/tm-543-breezed
                   <h3>Menu Utama</h3>
                   <h5>Fitur Cek Administrasi Dan Tagihan</h5>
                   <a href="http://192.168.88.203/dashboard/bantuan.html" class="main-stroked-button">Bantuan</a>
-                  <a href="http://192.168.88.203/dashboard/indexutama.php" class="main-filled-button">Klik</a>
-                </div>
+                  <a href="http://192.168.88.203/dashboard/indexutama.php" class="main-filled-button">Klik</a>                </div>
             </div>
           </div>
           <!-- // Item -->
@@ -123,8 +210,7 @@ https://templatemo.com/tm-543-breezed
                   <h3>Menu Management</h3>
                   <h5>Fitur Management Dan Kepegawaian</h5>
                  <a href="http://192.168.88.203/dashboard/bantuan.html" class="main-stroked-button">Bantuan</a>
-                  <a href="http://192.168.88.203/dashboard/indexmanagement.php" class="main-filled-button">Klik</a>
-                </div>
+                  <a href="http://192.168.88.203/dashboard/indexmanagement.php" class="main-filled-button">Klik</a>                </div>
             </div>
           </div>
           <!-- // Item -->
@@ -136,8 +222,7 @@ https://templatemo.com/tm-543-breezed
                   <h3>Menu Halaman</h3>
                   <h5>Fitur Display Tampilan Dan Antrian Pendaftaran</h5>
                   <a href="http://192.168.88.203/dashboard/bantuan.html" class="main-stroked-button">Bantuan</a>
-                  <a href="http://192.168.88.203/dashboard/indexweb.php" class="main-filled-button">Klik</a>
-                </div>
+                  <a href="http://192.168.88.203/dashboard/indexweb.php" class="main-filled-button">Klik</a>                </div>
             </div>
           </div>
           <!-- // Item -->
@@ -148,8 +233,7 @@ https://templatemo.com/tm-543-breezed
                   <h3>Menu Beranda</h3>
                   <h5>Fitur Petugas Dan Informasi</h5>
                   <<a href="http://192.168.88.203/dashboard/bantuan.html" class="main-stroked-button">Bantuan</a>
-                  <a href="http://192.168.88.203/dashboard/indexmenu.php" class="main-filled-button">Klik</a>
-                </div>
+                  <a href="http://192.168.88.203/dashboard/indexmenu.php" class="main-filled-button">Klik</a>                </div>
             </div>
           </div>
           <!-- // Item -->
@@ -180,20 +264,15 @@ https://templatemo.com/tm-543-breezed
                 <div class="col-lg-6 col-xs-12">
                     <div class="left-text-content">
                         <p>Copyright &copy; Aplikasi RS. Asura Versi 8.0 <a rel="nofollow noopener" href=""></a></p>
-					  
-					  
-		                    </div>
+                  </div>
                 </div>
                 <div class="col-lg-6 col-xs-12">
                   <div class="col-lg-6 col-xs-12">
                     <div class="left-text-content">
                       <p align="right"><a href="http://192.168.88.203/dashboard/DATA/index.php" target=""> Development Program </a></p>
-					  
                     </div>
                   </div>
-                    <div class="right-text-content">
-                            
-                    </div>
+                    <div class="right-text-content">                    </div>
             </div>
           </div>
         </div>

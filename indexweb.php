@@ -143,7 +143,7 @@ https://templatemo.com/tm-569-edu-meeting
             
             <div class="item">
               <div class="icon">
-                <div class="icon"><a href="http://192.168.88.203/dashboard/APLIKASI-APS.6.0/POLIKLINIK" target=""><img src="https://cdn.kibrispdr.org/data/icon-klinik-png-22.png"></a></div>
+                <div class="icon"><a href="http://192.168.88.203/dashboard/APLIKASI-APS.6.0/POLIKLINIK" target=""><img src="https://icon-library.com/images/medical-clinic-icon/medical-clinic-icon-3.jpg"></a></div>
               </div>
               <div class="down-content">
                 <h4>POLIKLINIK</h4>
