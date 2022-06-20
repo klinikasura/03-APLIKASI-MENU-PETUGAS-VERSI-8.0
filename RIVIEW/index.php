@@ -77,7 +77,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/templatemo-style.css" rel="stylesheet">
 		<link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
-		 <meta http-equiv="refresh" content="120;url=http://192.168.88.203/dashboard/RIVIEW/index.php">
+		 <meta http-equiv="refresh" content="8000;url=http://192.168.88.203/dashboard/RIVIEW/index.php">
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -101,11 +101,15 @@
           <ul>
             <li><a href="index.php" class="active"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
             <li><a href="http://192.168.88.203/dashboard/RIVIEW/DATAPASIEN/index.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Pasien </a></li>
+		 <li><a href="http://192.168.88.203/dashboard/APLIKASI/KHANZALITE-PAKESUARA/admin/apotek_ralan/manage?t=8f9aa46115c0" target="frame"><i class="fa fa-database fa-fw"></i>Input Obat Ralan </a></li>
             <li><a href="http://192.168.88.203/dashboard/RIVIEW/DATAOBAT/index.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Harga Obat</a></li>
             
 			
 			   <li><a href="lihatlogobat.php" target="frame"><i class="fa fa-database fa-fw"></i>Log Stok Awal</a></li>
 			   <li><a href="lihatpegawai.php" target="frame"><i class="fa fa-database fa-fw"></i>Data Pegawai</a></li>
+			    <li><a href="http://192.168.88.203/dashboard/APLIKASI-APS.6.0/DISPLAY-TV/TV/anjungan/loket?show=panggil_cs" target="frame"><i class="fa fa-database fa-fw"></i>Antrian Apotik</a></li>
+			  <li><a href="http://192.168.88.203/dashboard/APLIKASI-APS.6.0/DISPLAY-TV/TV/anjungan/loket?show=panggil_loket" target="frame"><i class="fa fa-database fa-fw"></i>Antrian Poliklinik</a></li>
+			  <li><a href="http://192.168.88.203/dashboard/RIVIEW/INVENTARIS" target="frame"><i class="fa fa-database fa-fw"></i>Data Inventaris</a></li>
 			
             <li><a href="http://192.168.88.203/dashboard"><i class="ffa fa-database fa-fw"></i>LogOut</a></li>
           </ul>  
@@ -116,7 +120,7 @@
 	  
 	  
 	  
-	  <iframe src="http://192.168.88.203/dashboard/RIVIEW/data.jpg" name="frame" width="100%" height="600px" allowtransparency="true" noresize="noresize"></iframe>
+	  <iframe src="http://192.168.88.203/dashboard/RIVIEW/RIVIEW.jpg" name="frame" width="100%" height="700px" allowtransparency="true" noresize="noresize"></iframe>
 	  
 	  
 	  
