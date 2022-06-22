@@ -2,8 +2,9 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <style type="text/css">
   body{
-  padding: 25px;
+	padding: 25px;
   margin : 200px:
+; 	background-color: #999999;
 }
   .style1 {
 	color: #000000;
@@ -18,7 +19,10 @@
   .style5 {color: #009900; font-family: "Times New Roman", Times, serif; }
   .style7 {color: #00CC00; font-family: "Times New Roman", Times, serif; }
   .style8 {color: #000000}
-  </style>
+  body,td,th {
+	color: #999999;
+}
+</style>
   </head>
   <body>
     <div class="alert alert-success" role="alert">
@@ -110,7 +114,11 @@
 			    <li><a href="http://192.168.88.203/dashboard/APLIKASI-APS.6.0/DISPLAY-TV/TV/anjungan/loket?show=panggil_cs" target="frame"><i class="fa fa-database fa-fw"></i>Antrian Apotik</a></li>
 			  <li><a href="http://192.168.88.203/dashboard/APLIKASI-APS.6.0/DISPLAY-TV/TV/anjungan/loket?show=panggil_loket" target="frame"><i class="fa fa-database fa-fw"></i>Antrian Poliklinik</a></li>
 			  <li><a href="http://192.168.88.203/dashboard/RIVIEW/INVENTARIS" target="frame"><i class="fa fa-database fa-fw"></i>Data Inventaris</a></li>
-			
+			<li><a href="http://192.168.88.203/dashboard/TAMPILAN/dashboard/?module=5.2" target="frame"><i class="fa fa-database fa-fw"></i>Data Jumlah Pasien</a></li>
+					<li><a href="http://192.168.88.203/dashboard/TAMPILAN/dashboard/?module=3.15" target="frame"><i class="fa fa-database fa-fw"></i>Data Bayar Pasien</a></li>
+							<li><a href="http://192.168.88.203/dashboard/TAMPILAN/dashboard/?module=5.1" target="frame"><i class="fa fa-database fa-fw"></i>Data Reg Pasien</a></li>
+							<li><a href="http://192.168.88.203/dashboard/TAMPILAN/phpqrcode/" target="frame"><i class="fa fa-database fa-fw"></i>QR Code</a></li>
+					
             <li><a href="http://192.168.88.203/dashboard"><i class="ffa fa-database fa-fw"></i>LogOut</a></li>
           </ul>  
         </nav>
@@ -120,7 +128,7 @@
 	  
 	  
 	  
-	  <iframe src="http://192.168.88.203/dashboard/RIVIEW/RIVIEW.jpg" name="frame" width="100%" height="700px" allowtransparency="true" noresize="noresize"></iframe>
+	  <iframe src="http://192.168.88.203/dashboard/RIVIEW/ICON.jpg" name="frame" width="100%" height="800px" allowtransparency="true" noresize="noresize"></iframe>
 	  
 	  
 	  
