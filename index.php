@@ -25,7 +25,7 @@
         <link href="http://192.168.88.203/dashboard/SISTEM8.0/css/templatemo-first-portfolio-style.css" rel="stylesheet">
      <link href="http://192.168.88.203/dashboard/download.jpeg" rel="icon" type="image/png" />
 	 
-	  <meta http-equiv="refresh" content="8;url=http://192.168.88.203/dashboard/OKEY/index.php">    
+	  <meta http-equiv="refresh" content="8;url=http://192.168.88.203/dashboard/APLIKASI-MOBILE/">    
 <!--
 
 TemplateMo 578 First Portfolio
