@@ -1,0 +1,54 @@
+/*
+Theme Name: BankApp
+Theme URI: http://s7template.com/tf/bankapp/
+Author: s7template
+Author URI: http://s7template.com/
+Description: BankApp - Wallet & Banking HTML Mobile Template
+Version: 1.0.0
+*/
+
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Global
+    ## Global
+    ## Mixins
+    ## Theme
+    ## Variables
+    ## Common
+
+# Sections
+    ## Nav Bar
+    ## Banner
+    ## Brand Area
+    ## Footer
+    ## Widgets
+
+# Elements
+    ## Flaticon
+
+--------------------------------------------------------------*/
+
+//== Global Design
+@import "global/_mixins";
+@import "global/_variables";
+@import "global/_global";
+@import "global/_common";
+//== Pages
+//== Sections 
+@import "sections/_widgets";
+@import "sections/_header";
+@import "sections/_banner";
+@import "sections/_content";
+@import "sections/_footer";
+//== Components 
+@import "components/_ui_commmon";
+@import "components/_accordion";
+@import "components/_alerts";
+@import "components/_buttons";
+@import "components/_modal";
+@import "components/_progress";
+@import "components/_tabs";
+@import "components/_tooltip";
+@import "components/_notifications";

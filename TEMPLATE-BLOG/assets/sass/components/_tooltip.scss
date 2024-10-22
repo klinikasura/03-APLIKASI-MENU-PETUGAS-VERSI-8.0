@@ -1,0 +1,55 @@
+/*
+ * TOOLTIP
+ */
+
+.tooltip-inner {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    max-width: 200px;
+    color: #98a8b4;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #eee;
+    box-shadow: 0 1px 15px 1px rgba(52, 40, 104, 0.18);
+    border-radius: 35px;
+    padding: 0.65rem 1.07rem;
+}
+
+.tooltip.show {
+    opacity: 1;
+}
+
+.tooltip.bs-tooltip-auto[x-placement^=top] .arrow::before,
+.tooltip.bs-tooltip-top .arrow::before {
+    bottom: -5px;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px 5px 0;
+    border-top-color: #fff;
+}
+
+.tooltip.bs-tooltip-auto[x-placement^=right] .arrow::before,
+.tooltip.bs-tooltip-right .arrow::before {
+    left: -5px;
+    top: 50%;
+    border-width: 5px 5px 5px 0;
+    border-right-color: #fff;
+}
+
+.tooltip.bs-tooltip-auto[x-placement^=bottom] .arrow::before,
+.tooltip.bs-tooltip-bottom .arrow::before {
+    top: -5px;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 0 5px 5px;
+    border-bottom-color: #fff;
+}
+
+.tooltip.bs-tooltip-auto[x-placement^=left] .arrow::before,
+.tooltip.bs-tooltip-left .arrow::before {
+    right: -5px;
+    top: 50%;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #fff;
+}

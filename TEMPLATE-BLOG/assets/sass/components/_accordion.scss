@@ -1,0 +1,54 @@
+/*
+ * 01. ACCORDION
+ */
+
+.accordion .card-header {
+    padding: 1.6rem;
+    margin-bottom: 0;
+    background-color: #fff;
+    border-bottom: 0 none;
+}
+
+.accordion-icon .card-header {
+    padding: 1.25rem;
+    margin-bottom: 0;
+    background-color: #fff;
+    border-bottom: 0 none;
+}
+
+.accordion-icon.icon-01 .card-header:before {
+    font-family: 'fontawesome';
+    content: "\f106";
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+.accordion-icon.icon-01 .card-header.collapsed:before {
+    content: "\f107";
+}
+
+.accordion-icon.icon-02 .card-header:before {
+    font-family: 'fontawesome';
+    content: "\f068";
+    display: inline-block;
+    font-size: 15px;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+.accordion-icon.icon-02 .card-header.collapsed:before {
+    content: "\f067";
+}
+
+.accordion .card-title,
+.accordion-icon .card-title {
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+.accordion .card-body,
+.accordion-icon .card-body {
+    border-bottom: 0.07rem solid #eee;
+}
