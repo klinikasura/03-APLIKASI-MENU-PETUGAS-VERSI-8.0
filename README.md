@@ -2,7 +2,7 @@ DESAIN HAMBA ALLOH
 APLIKASI VERSI 8.0
 
 
-RIVIEW TAMPILAN APLIKASI LINK https://klinikasura.github.io/03-APLIKASI-MENU-PETUGAS-VERSI-8.0/
+LINK https://klinikasura.github.io/03-APLIKASI-MENU-PETUGAS-VERSI-8.0/
 
 <!DOCTYPE html>
 <html lang="en">
